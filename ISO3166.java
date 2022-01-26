@@ -80,7 +80,7 @@ public enum ISO3166 {
 	EE("Estonia","Estonie (l')","EE","EST",233),
 	SZ("Eswatini","Eswatini (l')","SZ","SWZ",748),
 	ET("Ethiopia","Éthiopie (l')","ET","ETH",231),
-	FK("Falkland Islands (the) [Malvinas]","Falkland (les Îles)/Malouines (les Îles)","FK","FLK",238),
+	FK("Falkland Islands","Falkland","FK","FLK",238),
 	FO("Faroe Islands (the)","Féroé (les Îles)","FO","FRO",234),
 	FJ("Fiji","Fidji (les)","FJ","FJI",242),
 	FI("Finland","Finlande (la)","FI","FIN",246),
